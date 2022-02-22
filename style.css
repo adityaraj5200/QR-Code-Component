@@ -9,7 +9,6 @@
   --light-gray: hsl(212, 45%, 89%);
   --grayish-blue: hsl(220, 15%, 55%);
   --dark-blue: hsl(218, 44%, 22%);
-  /* --my-blue: hsl(216, 73%, 28%); */
 }
 
 img {
@@ -17,7 +16,6 @@ img {
 }
 
 body {
-  /* border: 2px solid red; */
   font-family: "Outfit", sans-serif;
   font-size: 13px;
   background-color: var(--light-gray);
@@ -30,8 +28,6 @@ body {
 }
 
 .container {
-  /* border: 2px solid green; */
-  /* max-width: 500px; */
   max-width: 380px;
   margin: 50px;
   padding: 1.25rem;
